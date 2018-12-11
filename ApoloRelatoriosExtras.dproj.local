@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2018/12/11 14:15:25.983,=C:\Users\leandro\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/12/11 14:15:32.019,=C:\Users\leandro\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2018/12/11 14:18:39.577,C:\projetos\ApoloRelatoriosExtras\uDm.pas=C:\Users\leandro\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2018/12/11 14:18:39.577,C:\projetos\ApoloRelatoriosExtras\uDm.dfm=C:\Users\leandro\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2018/12/11 14:18:51.164,C:\projetos\ApoloRelatoriosExtras\uFrmPrincipal.pas=C:\Users\leandro\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/12/11 14:18:51.164,C:\projetos\ApoloRelatoriosExtras\uFrmPrincipal.dfm=C:\Users\leandro\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2018/12/11 14:23:28.015,C:\projetos\ApoloRelatoriosExtras\ApoloRelatoriosExtras.dproj=C:\Users\leandro\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
